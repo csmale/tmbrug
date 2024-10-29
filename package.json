@@ -1,0 +1,15 @@
+{
+  "name": "tmbrug",
+  "version": "1.0.0",
+  "main": "tmbrug.js",
+  "scripts": {
+    "start": "node tmbrug.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jsdom": "^24.1.1",
+    "mqtt": "^5.10.1"
+  }
+}
